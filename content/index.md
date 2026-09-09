@@ -1,26 +1,33 @@
 ---
 title: Home
-description: Personal knowledge base — Projects, Areas, Resources, Archive.
+description: A personal knowledge base — organized with the PARA method and published as an offline-capable site.
 tags: [moc]
 ---
 
-# 🏠 Home
+# Welcome 👋
 
-Welcome. This vault uses the **PARA** method — everything lives in one of four buckets by *actionability*.
+This is my personal knowledge base — a working notebook for projects, ongoing responsibilities, reference material, and daily notes. It's built in [Obsidian](https://obsidian.md), published as a fast static site, and works **fully offline** once loaded (it's an installable web app).
 
-## Structure
+## Explore
 
-| Folder | What goes here |
-|---|---|
-| [[Inbox/Inbox\|📥 Inbox]] | Quick capture. Unsorted. Process regularly into the buckets below. |
-| [[01 Projects/Projects\|🎯 Projects]] | Things with a goal and a deadline. Active, finite efforts. |
-| [[02 Areas/Areas\|🔁 Areas]] | Ongoing responsibilities with a standard to maintain (health, finances, home). |
-| [[03 Resources/Resources\|📚 Resources]] | Topics & reference material you may want later. |
-| [[04 Archive/Archive\|🗄️ Archive]] | Done or inactive items from any of the above. |
-| [[Daily/Daily Notes\|🗓️ Daily Notes]] | Day logs, journaling, quick thoughts. |
+> [!info] Organized with PARA
+> Every note lives in one of four buckets, sorted by *how actionable it is* — a simple system that scales from a single note to thousands.
 
-## Quick capture
-New thought? Drop it in [[Inbox/Inbox|📥 Inbox]] and sort it later.
+| | Section | What lives here |
+|---|---|---|
+| 📥 | [[Inbox/Inbox\|Inbox]] | Quick captures, not yet sorted |
+| 🎯 | [[01 Projects/Projects\|Projects]] | Active efforts with a goal and a deadline |
+| 🔁 | [[02 Areas/Areas\|Areas]] | Ongoing responsibilities to maintain |
+| 📚 | [[03 Resources/Resources\|Resources]] | Reference material and topics of interest |
+| 🗄️ | [[04 Archive/Archive\|Archive]] | Finished or inactive items |
+| 🗓️ | [[Daily/Daily Notes\|Daily Notes]] | Day logs and journaling |
 
-> [!tip] How to use
-> Move a note between folders as its status changes: an Inbox capture becomes a Project, a finished Project moves to Archive. Keep the number of active Projects small.
+## About this site
+
+- **Search** anything with the search box (top left) or `Ctrl/⌘ + K`.
+- **Graph view** (right) shows how notes connect.
+- **Offline:** open the site once, then it works with no connection — and it's installable as an app from your browser's menu.
+- **Dark mode:** toggle top-left.
+
+> [!tip] New here?
+> Read [[03 Resources/How this vault works|How this vault works]] for the full method.
