@@ -7,6 +7,11 @@ public/
 # Never publish or commit private notes
 content/private/
 
+# Obsidian session layout (rewritten every quit)
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+
+
 # Safety net: never commit secrets even if misplaced
 .env
 .env.*

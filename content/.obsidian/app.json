@@ -4,5 +4,23 @@
   "newFileFolderPath": "Inbox",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "livePreview": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "promptDelete": true,
+  "trashOption": "local",
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

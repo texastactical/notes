@@ -1,4 +1,44 @@
 {
+  "collapse-filter": false,
+  "search": "",
   "showTags": true,
-  "showAttachments": false
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:private",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:01 Projects",
+      "color": {
+        "a": 1,
+        "rgb": 5431478
+      }
+    },
+    {
+      "query": "path:02 Areas",
+      "color": {
+        "a": 1,
+        "rgb": 5431532
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.4,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
 }

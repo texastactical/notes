@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1757422800000,
+      "path": "private/index.md",
+      "title": "Private Vault"
+    },
+    {
+      "type": "file",
+      "ctime": 1757422800001,
+      "path": "index.md",
+      "title": "Home (public)"
+    },
+    {
+      "type": "file",
+      "ctime": 1757422800002,
+      "path": "Inbox/Inbox.md",
+      "title": "Inbox"
+    }
+  ]
+}

@@ -1,4 +1,10 @@
 {
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "#7b97aa",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": []
 }
