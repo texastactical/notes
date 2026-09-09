@@ -6,3 +6,11 @@ public/
 
 # Never publish or commit private notes
 content/private/
+
+# Safety net: never commit secrets even if misplaced
+.env
+.env.*
+*.key
+*.pem
+**/secrets*
+**/*_secret*
