@@ -10,9 +10,14 @@ configuration:
   baseUrl: notes.texasrisingsun.com
   ignorePatterns:
     - private
+    - private/**
+    - "**/private/**"
     - templates
+    - templates/**
     - .obsidian
+    - .obsidian/**
     - .trash
+    - .trash/**
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
